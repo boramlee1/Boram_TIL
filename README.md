@@ -1,2 +1,1 @@
-# Boram_TIL
-Today I Learned...
+# TIL
